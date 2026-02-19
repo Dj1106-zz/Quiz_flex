@@ -8,7 +8,7 @@ Imaginarios   [iIjJ]
 
 %%
 
-^{Reales}[+-]{Reales}{IMAG}$   { valido = 1; }
+^{Reales}[+-]{Reales}{Imaginarios}$   { valido = 1; }
 ^.*$                       { valido = 0; }
 
 %%
